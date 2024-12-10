@@ -1,5 +1,5 @@
-## Hi 👋, I'm Brice Seguret
-# Student in BUT Information Technology in Anglet
+# Hi 👋, I'm Brice Seguret
+## Student in BUT Information Technology in Anglet
 
 - 🌱 I’m currently learning C++, Python
 - 💬 Ask me about HTML, CSS, JS, React, C, ...
