@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C++, Python
 - 💬 Ask me about HTML, CSS, JS, React, C, ...
 - 📫 How to reach me: brice.seguret@gmail.com
-- 📄 Know about my experiences linkedin.com/in/brice-seguret
+- 📄 Know about my experiences https://linkedin.com/in/brice-seguret
 <!--
 **Briceseg40/Briceseg40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
