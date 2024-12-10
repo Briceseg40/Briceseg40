@@ -1,6 +1,7 @@
-# Hi 👋, I'm Brice Seguret
-## Student in BUT Information Technology in Anglet
-
+## Hi 👋, I'm Brice Seguret
+### Student in BUT Information Technology in Anglet
+> [!NOTE]
+> I'm currently looking for a company for my second year of work-study..
 - 🌱 I’m currently learning C++, Python
 - 💬 Ask me about HTML, CSS, JS, React, C, ...
 - 📫 How to reach me: brice.seguret@gmail.com
