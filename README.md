@@ -1,7 +1,6 @@
 # 👋 Bonjour, je suis Brice Seguret !
-📍 Anglet, France
 
-Étudiant en BUT Informatique passionné par le développement et la gestion de projet. Je suis actuellement à la recherche d'un stage de 10 semaines pour mars 2025 et d'une alternance pour 2026-2027 dans la gestion de projet, l'intégration d'applications ou le développement web.
+Étudiant en BUT Informatique passionné par le développement et la gestion de projet. Je suis actuellement à la recherche d'un stage de 10 semaines pour mars 2025 et d'une alternance pour 2026-2027 dans la gestion de projet, l'intégration d'applications ou le développement web. Je vis sur Anglet en France
 
 <br>
 
