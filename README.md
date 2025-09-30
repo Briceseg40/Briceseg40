@@ -34,51 +34,51 @@ Tools & Software
 
 ## Soft Skills
 
-- 🤝 Team spirit and collaboration
+- Team spirit and collaboration
 
-- 💡 Autonomy and initiative
+- Autonomy and initiative
 
-- 🧠 Intellectual curiosity
+- Intellectual curiosity
 
-- 🗓️ Project management (Planning, Specifications)
+- Project management (Planning, Specifications)
 
 ## Languages
 
 English - B1 Level (Intermediate)
 
 ## 🎓 Education
-#### 👨‍💻 University Diploma in Technology (BUT) in Computer Science | IUT of Bayonne (Sept. 2024 - Present)
+### University Diploma in Technology (BUT) in Computer Science | IUT of Bayonne (Sept. 2024 - Present)
 
 - Designing and implementing innovative and high-performance software solutions.
 
 - Studied languages: Python, JavaScript, C++, Low Data, network systems...
 
-#### 🌐 Web Integrator Training | OpenClassrooms (2023 - 2024)
+### Web Integrator Training | OpenClassrooms (2023 - 2024)
 
 - Developed functional web interfaces using HTML, CSS, and JavaScript.
 
-#### 🔌 Advanced Technician's Certificate (BTS) in Digital & Electronic Systems | Borda High School, Dax (2019 - 2021)
+### Advanced Technician's Certificate (BTS) in Digital & Electronic Systems | Borda High School, Dax (2019 - 2021)
 
 - Mastery of electronic, digital, and communication systems.
 
-#### 🎓 Vocational Baccalaureate (Bac Pro) in MELEEC (2016 - 2019)
+### Vocational Baccalaureate (Bac Pro) in MELEEC (2016 - 2019)
 ## 💼 Experience
-#### 🔧 Maintenance Technician | Camping Lous Seurrots 5 (April - August 2024)
+#### Maintenance Technician | Camping Lous Seurrots 5 (April - August 2024)
 
 - Performed various repairs (plumbing, electricity, structure), demonstrating strong adaptability.
 
-#### 💻 Introduction to Programming "The Pool" | School 42, Angoulême (August 2023)
+### Introduction to Programming "The Pool" | School 42, Angoulême (August 2023)
 
 - Intensive one-month selection program: introduction to C programming and autonomous learning methods, which strongly developed my ability to be quickly operational.
 
-#### 🎨 Web Development Internship | La Petite Sœur (May 2023)
+### Web Development Internship | La Petite Sœur (May 2023)
 
 - Developed a functional no-code website using Dorik.
 
 - Created over 10+ mockups in Figma to streamline content and design priorities.
 
 ## ✨ Projects
-📈 SAE2.05 - Application Project Management
+### SAE2.05 - Application Project Management
 
 - Managed a project in a team of 5, from needs analysis to the development of the management file, including specifications and planning.
 
@@ -86,14 +86,14 @@ English - B1 Level (Intermediate)
 
 ## 🎸 Hobbies
 
-🏐 Volleyball, 🏄 Surfing, 🥊 Boxing
+Volleyball, Surfing, Boxing
 
-🎺 Music: 10 years of trumpet at the conservatory (1st and 2nd cycle)
+Music: 10 years of trumpet at the conservatory (1st and 2nd cycle)
 
-🎬 Cinema and series
+Cinema and series
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briceseg40&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
