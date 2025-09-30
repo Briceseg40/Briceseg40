@@ -1,16 +1,23 @@
-👋 Bonjour, je suis Brice Seguret !
-<img src="https://i.imgur.com/your-profile-picture.png" alt="Brice Seguret" width="200" align="right">
+# 👋 Bonjour, je suis Brice Seguret !
+📍 Anglet, France
+
 Étudiant en BUT Informatique passionné par le développement et la gestion de projet. Je suis actuellement à la recherche d'un stage de 10 semaines pour mars 2025 et d'une alternance pour 2026-2027 dans la gestion de projet, l'intégration d'applications ou le développement web.
+
 <br>
+
+
 ![alt text](https://img.shields.io/badge/GitHub-Briceseg40-181717?style=for-the-badge&logo=github)
+
 
 ![alt text](https://img.shields.io/badge/Email-brice.seguret@gmail.com-D14836?style=for-the-badge&logo=gmail)
 
-📍 Anglet, France
-🚀 À Propos de Moi
+## 🚀 À Propos de Moi
+
 Je suis un développeur curieux et créatif, avec une forte envie d'apprendre et de relever de nouveaux défis. J'aime transformer des idées complexes en solutions logicielles performantes et élégantes. Mon parcours m'a permis de développer une grande autonomie et un excellent esprit d'équipe.
-🛠️ Compétences
+
+## 🛠️ Compétences
 Langages & Programmation
+
 ![alt text](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![alt text](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![alt text](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -18,49 +25,76 @@ Langages & Programmation
 ![alt text](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![alt text](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-Outils & Logiciels
+
+## Outils & Logiciels
+
 ![alt text](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![alt text](https://img.shields.io/badge/-DaVinci%20Resolve-2B2B2B?style=for-the-badge&logo=davinci-resolve&logoColor=white)
-Soft Skills
+
+## Soft Skills
+
 🤝 Esprit d'équipe et collaboration
-autonomie et initiative
+💡 Autonomie et initiative
 🧠 Curiosité intellectuelle
 🗓️ Gestion de projet (Planification, Spécifications)
-Langues
+
+## Langues
+
 🇬🇧 Anglais - Niveau B1 (Intermédiaire)
-🎓 Formations
+
+## 🎓 Formations
 👨‍💻 BUT Informatique | IUT de Bayonne (Sept. 2024 - Présent)
-Conception et implémentation de solutions logicielles innovantes et performantes.
-Langages étudiés : Python, JavaScript, C++, Low Data, systèmes réseaux...
+
+- Conception et implémentation de solutions logicielles innovantes et performantes.
+
+- Langages étudiés : Python, JavaScript, C++, Low Data, systèmes réseaux...
+
 🌐 Formation Intégrateur Web | OpenClassrooms (2023 - 2024)
-Développement d'interfaces web fonctionnelles en utilisant HTML, CSS et JavaScript.
-🛠️ BTS Systèmes Numériques et Électroniques | Lycée Borda, Dax (2019 - 2021)
-Maîtrise des systèmes électroniques, numériques et de communication.
+
+- Développement d'interfaces web fonctionnelles en utilisant HTML, CSS et JavaScript.
+
+🔌 BTS Systèmes Numériques et Électroniques | Lycée Borda, Dax (2019 - 2021)
+
+- Maîtrise des systèmes électroniques, numériques et de communication.
+
 🎓 Bac Pro MELEEC (2016 - 2019)
-💼 Expériences
+## 💼 Expériences
 🔧 Technicien de Maintenance | Camping Lous Seurrots 5 (Avril - Août 2024)
-Réalisations de réparations variées (plomberie, électricité, structure), démontrant une grande capacité d'adaptation.
+
+- Réalisations de réparations variées (plomberie, électricité, structure), démontrant une grande capacité d'adaptation.
+
 💻 Introduction à la Programmation "La Piscine" | École 42, Angoulême (Août 2023)
-Sélection intensive d'un mois avec une introduction à la programmation en C.
-Développement de ma capacité à être rapidement opérationnel grâce à des méthodes d'apprentissage autonomes.
+
+- Sélection intensive d'un mois avec une introduction à la programmation en C.
+
+- Développement de ma capacité à être rapidement opérationnel grâce à des méthodes d'apprentissage autonomes.
+
 🎨 Stage Développement Web | La Petite Sœur (Mai 2023)
-Développement d'un site web fonctionnel en no-code avec Dorik.
-Création de plus de 10 maquettes sur Figma pour optimiser le contenu et le design.
-✨ Projets Personnels et Académiques
-Voici quelques projets sur lesquels j'ai travaillé. N'hésitez pas à explorer les dépôts GitHub !
-quảnlý SAE2.05 - Gestion de projet d'une application
-Description: Gestion d'un projet en équipe de 5 personnes, de l'analyse des besoins au développement du dossier de gestion, incluant les spécifications et la planification.
-Outils: Trello, Outils de planification.
-Rôle: Chef de projet / Développeur.
-Vous pouvez ajouter une image ou un GIF de votre Trello ou d'un diagramme de Gantt ici
-<div align="center">
-<img src="URL_DE_VOTRE_IMAGE_OU_GIF" alt="Project Management Screenshot" width="600">
-</div>
-🎸 Hobbies
+
+- Développement d'un site web fonctionnel en no-code avec Dorik.
+
+- Création de plus de 10 maquettes sur Figma pour optimiser le contenu et le design.
+
+## ✨ Projets Personnels et Académiques
+📈 SAE2.05 - Gestion de projet d'une application
+
+- Gestion d'un projet en équipe de 5 personnes, de l'analyse des besoins au développement du dossier de gestion, incluant les spécifications et la planification.
+
+- Outils: Trello, Outils de planification.
+
+## 🎸 Hobbies
+
 🏐 Volleyball, 🏄 Surf, 🥊 Boxe
+
 🎺 Musique : 10 ans de trompette au conservatoire (1er et 2ème cycle)
+
 🎬 Cinéma et séries
+
 📊 Statistiques GitHub
-![alt text](https://github-readme-stats.vercel.app/api?username=Briceseg40&show_icons=true&theme=radical)
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=Briceseg40&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briceseg40&layout=compact&theme=radical" alt="Langues les plus utilisées" />
+</p>
+
+
+N'hésitez pas à me contacter pour toute question ou opportunité ! 🚀
