@@ -1,6 +1,6 @@
-# 👋 Bonjour, je suis Brice Seguret !
+# 👋 Hello, I'm Brice Seguret!
 
-Étudiant en BUT Informatique passionné par le développement et la gestion de projet. Je suis actuellement à la recherche d'un stage de 10 semaines pour mars 2025 et d'une alternance pour 2026-2027 dans la gestion de projet, l'intégration d'applications ou le développement web. Je vis sur Anglet en France
+A Computer Science student passionate about development and project management. I am currently looking for a 10-week internship for March 2025 and a work-study program for 2026-2027 in project management, application integration, or web development. Based in Anglet, France. 🇫🇷
 
 <br>
 
@@ -10,12 +10,12 @@
 
 ![alt text](https://img.shields.io/badge/Email-brice.seguret@gmail.com-D14836?style=for-the-badge&logo=gmail)
 
-## 🚀 À Propos de Moi
+## 🚀 About Me
 
-Je suis un développeur curieux et créatif, avec une forte envie d'apprendre et de relever de nouveaux défis. J'aime transformer des idées complexes en solutions logicielles performantes et élégantes. Mon parcours m'a permis de développer une grande autonomie et un excellent esprit d'équipe.
+I am a curious and creative developer, eager to learn and take on new challenges. I enjoy transforming complex ideas into efficient and elegant software solutions. My journey has allowed me to develop strong autonomy and a great team spirit.
 
-## 🛠️ Compétences
-Langages & Programmation
+## 🛠️ Skills
+Languages & Programming
 
 ![alt text](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![alt text](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,75 +25,77 @@ Langages & Programmation
 ![alt text](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Outils & Logiciels
+Tools & Software
 
+![alt text](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![alt text](https://img.shields.io/badge/-DaVinci%20Resolve-2B2B2B?style=for-the-badge&logo=davinci-resolve&logoColor=white)
 
 ## Soft Skills
 
-🤝 Esprit d'équipe et collaboration
-💡 Autonomie et initiative
-🧠 Curiosité intellectuelle
-🗓️ Gestion de projet (Planification, Spécifications)
+- 🤝 Team spirit and collaboration
 
-## Langues
+- 💡 Autonomy and initiative
 
-🇬🇧 Anglais - Niveau B1 (Intermédiaire)
+- 🧠 Intellectual curiosity
 
-## 🎓 Formations
-👨‍💻 BUT Informatique | IUT de Bayonne (Sept. 2024 - Présent)
+- 🗓️ Project management (Planning, Specifications)
 
-- Conception et implémentation de solutions logicielles innovantes et performantes.
+## Languages
 
-- Langages étudiés : Python, JavaScript, C++, Low Data, systèmes réseaux...
+English - B1 Level (Intermediate)
 
-🌐 Formation Intégrateur Web | OpenClassrooms (2023 - 2024)
+## 🎓 Education
+#### 👨‍💻 University Diploma in Technology (BUT) in Computer Science | IUT of Bayonne (Sept. 2024 - Present)
 
-- Développement d'interfaces web fonctionnelles en utilisant HTML, CSS et JavaScript.
+- Designing and implementing innovative and high-performance software solutions.
 
-🔌 BTS Systèmes Numériques et Électroniques | Lycée Borda, Dax (2019 - 2021)
+- Studied languages: Python, JavaScript, C++, Low Data, network systems...
 
-- Maîtrise des systèmes électroniques, numériques et de communication.
+#### 🌐 Web Integrator Training | OpenClassrooms (2023 - 2024)
 
-🎓 Bac Pro MELEEC (2016 - 2019)
-## 💼 Expériences
-🔧 Technicien de Maintenance | Camping Lous Seurrots 5 (Avril - Août 2024)
+- Developed functional web interfaces using HTML, CSS, and JavaScript.
 
-- Réalisations de réparations variées (plomberie, électricité, structure), démontrant une grande capacité d'adaptation.
+#### 🔌 Advanced Technician's Certificate (BTS) in Digital & Electronic Systems | Borda High School, Dax (2019 - 2021)
 
-💻 Introduction à la Programmation "La Piscine" | École 42, Angoulême (Août 2023)
+- Mastery of electronic, digital, and communication systems.
 
-- Sélection intensive d'un mois avec une introduction à la programmation en C.
+#### 🎓 Vocational Baccalaureate (Bac Pro) in MELEEC (2016 - 2019)
+## 💼 Experience
+#### 🔧 Maintenance Technician | Camping Lous Seurrots 5 (April - August 2024)
 
-- Développement de ma capacité à être rapidement opérationnel grâce à des méthodes d'apprentissage autonomes.
+- Performed various repairs (plumbing, electricity, structure), demonstrating strong adaptability.
 
-🎨 Stage Développement Web | La Petite Sœur (Mai 2023)
+#### 💻 Introduction to Programming "The Pool" | School 42, Angoulême (August 2023)
 
-- Développement d'un site web fonctionnel en no-code avec Dorik.
+- Intensive one-month selection program: introduction to C programming and autonomous learning methods, which strongly developed my ability to be quickly operational.
 
-- Création de plus de 10 maquettes sur Figma pour optimiser le contenu et le design.
+#### 🎨 Web Development Internship | La Petite Sœur (May 2023)
 
-## ✨ Projets Personnels et Académiques
-📈 SAE2.05 - Gestion de projet d'une application
+- Developed a functional no-code website using Dorik.
 
-- Gestion d'un projet en équipe de 5 personnes, de l'analyse des besoins au développement du dossier de gestion, incluant les spécifications et la planification.
+- Created over 10+ mockups in Figma to streamline content and design priorities.
 
-- Outils: Trello, Outils de planification.
+## ✨ Projects
+📈 SAE2.05 - Application Project Management
+
+- Managed a project in a team of 5, from needs analysis to the development of the management file, including specifications and planning.
+
+- Tools: Trello, Planning tools.
 
 ## 🎸 Hobbies
 
-🏐 Volleyball, 🏄 Surf, 🥊 Boxe
+🏐 Volleyball, 🏄 Surfing, 🥊 Boxing
 
-🎺 Musique : 10 ans de trompette au conservatoire (1er et 2ème cycle)
+🎺 Music: 10 years of trumpet at the conservatory (1st and 2nd cycle)
 
-🎬 Cinéma et séries
+🎬 Cinema and series
 
-📊 Statistiques GitHub
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briceseg40&layout=compact&theme=radical" alt="Langues les plus utilisées" />
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briceseg40&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
-N'hésitez pas à me contacter pour toute question ou opportunité ! 🚀
+Feel free to contact me for any questions or opportunities! 🚀
