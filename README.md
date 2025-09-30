@@ -32,7 +32,7 @@ Tools & Software
 ![alt text](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![alt text](https://img.shields.io/badge/-DaVinci%20Resolve-2B2B2B?style=for-the-badge&logo=davinci-resolve&logoColor=white)
 
-## Soft Skills
+## 💎 Soft Skills
 
 - Team spirit and collaboration
 
@@ -42,7 +42,7 @@ Tools & Software
 
 - Project management (Planning, Specifications)
 
-## Languages
+## 🚩Languages
 
 English - B1 Level (Intermediate)
 
